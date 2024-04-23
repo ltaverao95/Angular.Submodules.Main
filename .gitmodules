@@ -1,0 +1,8 @@
+[submodule "src/app/modules/Header"]
+	path = src/app/modules/Header
+	url = https://github.com/ltaverao95/Angular.Submodules.HeaderComponent.git
+	branch = master
+[submodule "src/app/modules/Body"]
+	path = src/app/modules/Body
+	url = https://github.com/ltaverao95/Angular.Submodules.BodyComponent.git
+	branch = master
