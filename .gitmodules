@@ -6,3 +6,7 @@
 	path = src/app/modules/Body
 	url = https://github.com/ltaverao95/Angular.Submodules.BodyComponent.git
 	branch = master
+[submodule "src/app/modules/Footer"]
+	path = src/app/modules/Footer
+	url = https://github.com/ltaverao95/Angular.Submodules.FooterComponent.git
+	branch = master
